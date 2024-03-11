@@ -1,4 +1,3 @@
-**Cineflix**
 ## Demo
 Check out the live demo of the Cineflix website [here](https://meetraut.github.io/Movie-website-react/).
 
