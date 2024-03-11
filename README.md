@@ -1,5 +1,5 @@
 # Cineflix
- is a React web application that allows users to discover popular movies and search for specific movies using The Movie Database (TMDb) API.
+ Cineflix is a React web application that allows users to discover popular movies and search for specific movies using The Movie Database (TMDb) API.
  
 ## Demo
 Check out the live demo of the Cineflix website [here](https://meetraut.github.io/Movie-website-react/).
@@ -11,8 +11,8 @@ Check out the live demo of the Cineflix website [here](https://meetraut.github.i
 4. Each movie card includes the movie poster, title, and release date.
    
 ## Technologies Used
-React: The application is built using React, a JavaScript library for building user interfaces.
-TMDb API: The Movie Database (TMDb) API is used to fetch movie data, including popular movies and search results.
+1. React: The application is built using React, a JavaScript library for building user interfaces.
+2. TMDb API: The Movie Database (TMDb) API is used to fetch movie data, including popular movies and search results.
 
 
 ## Installation
