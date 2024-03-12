@@ -8,7 +8,7 @@ Check out the live demo of the Cineflix website [here](https://meetraut.github.i
 1. Displays a list of popular movies fetched from TMDb API on the home page.
 2. Allows users to search for movies by entering keywords in the search bar.
 3. Displays search results dynamically as users type in the search bar.
-4. Each movie card includes the movie poster, title, and release date.
+4. Each movie card includes the movie poster and title.
    
 ## Technologies Used
 1. React: The application is built using React, a JavaScript library for building user interfaces.
@@ -29,4 +29,4 @@ To run this application locally, follow these steps:
 3. Start the development server:
    ```bash
    npm start
-  ```
+   ```
